@@ -9,9 +9,7 @@ A Python automation tool that reads client data from an Excel sheet, generates p
 - 📥 Reads customer data from an Excel spreadsheet
 - 🧾 Generates personalized invoice PDFs
 - 📤 Sends emails with invoice attachments
-- 🧠 Error handling for missing fields or bad emails
 - 📂 Saves a copy of each invoice locally
-- 🕒 Logs successful and failed deliveries
 
 ---
 
